@@ -1,0 +1,15 @@
+
+
+/* Animation delays */
+.carousel-caption h1:first-child,#cimg1 {
+	-webkit-animation-delay: 1s;
+	animation-delay: 1s;
+}
+.carousel-caption p:nth-child(2),#cimg2 {
+	-webkit-animation-delay: 2s;
+	animation-delay: 2s;
+}
+.carousel-caption button ,#cimg3{
+	-webkit-animation-delay: 2s;
+	animation-delay: 2s;
+}
